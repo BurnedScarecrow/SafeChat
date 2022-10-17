@@ -1,4 +1,4 @@
-# Chat whith Hybrid Cryptosystem (RSA + AES)
+# Chat with Hybrid Cryptosystem (RSA + AES)
 
 Выполнили студенты Евсиков Александр и Дронь Валерий (8361)
 
